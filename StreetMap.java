@@ -39,7 +39,7 @@ public class StreetMap {
 	 *        The shortest path is also displayed in the map.
 	 * </li>
 	 * 
-	 * Example args: src/nys.txt --show --directions i185852 i294475 
+	 * Example args: src/monroe.txt --show --directions i185852 i294475 
 	 * 
 	 * @param args The arguments in suggested format as described in Project 3
 	 *             handout.
